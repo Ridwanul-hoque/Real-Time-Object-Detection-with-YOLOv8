@@ -1,0 +1,6 @@
+fastapi[standard]
+ultralytics
+opencv-python
+numpy
+python-multipart
+requests
